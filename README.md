@@ -13,3 +13,4 @@ Trabajos prácticos
 
 [palabras 2](https://raw.githubusercontent.com/camicollado/infovis/gh-pages/docs/palabras.txt)
 
+[palabras 3](https://raw.githubusercontent.com/camicollado/infovis/gh-pages/palabras.txt)
