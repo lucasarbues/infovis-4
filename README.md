@@ -7,3 +7,4 @@ Trabajos prácticos
 
 [demo tableau](https://camicollado.github.io/infovis/demotableau.html)
 
+[palabras](https://raw.camicollado.github.io/infovis/gh-pahges/palabras.txt)
