@@ -1,0 +1,19 @@
+visual encodings
+index chart
+horizon graphs
+data density
+q-q plots
+parallel coordinates
+flow maps
+choropleth maps
+graduated symbol maps
+dendrogram
+cluster
+adjacency diagrams
+sunburst layout
+icicle layout
+enclosure diagrams
+voronoi
+jigsaw treemaps
+force-directed layout
+arc diagrams
