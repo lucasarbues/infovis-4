@@ -8,9 +8,4 @@ Trabajos prácticos
 [demo tableau](https://camicollado.github.io/infovis/demotableau.html)
 
 
-[palabras](https://camicollado.github.io/infovis/docs/palabras.txt)
-
-
-[palabras 2](https://raw.githubusercontent.com/camicollado/infovis/gh-pages/docs/palabras.txt)
-
-[palabras 3](https://raw.githubusercontent.com/camicollado/infovis/gh-pages/palabras.txt)
+[palabras](https://raw.githubusercontent.com/camicollado/infovis/gh-pages/palabras.txt)
